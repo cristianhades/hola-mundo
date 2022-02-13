@@ -1,4 +1,4 @@
-# Hhola Mundo
+# Hola Mundo
 Primer repositorio
 
 Autor: Cris Marin <br>
